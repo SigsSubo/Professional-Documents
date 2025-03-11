@@ -1,20 +1,17 @@
 # Professional-Documents
 
-# Vulnerability Assessment Report
+<details>
+<summary>Vulnerability Assessment Report</summary>
 
 **Date:** 11th March 2025
 
-<details>
-<summary><strong>Scenario</strong></summary>
+## Scenario
 
 As a newly hired cybersecurity analyst for an e-commerce company, I have been tasked with conducting a vulnerability assessment of the company's database server. The company stores sensitive information on a remote database server that is accessible to employees working remotely from different locations around the world. However, the database has been open to the public since the company's launch three years ago, which is a serious security vulnerability.
 
 This report aims to communicate the potential risks to decision-makers and propose ways to secure the database server, ensuring that access is restricted to authorized employees only.
 
-</details>
-
-<details>
-<summary><strong>System Description</strong></summary>
+## System Description
 
 The server's hardware consists of a powerful CPU processor with 128GB of memory. It runs the latest version of the Linux operating system and hosts a MySQL database management system. The server is configured with a stable network connection using IPv4 addresses and interacts with other servers on the network. Security measures in place include SSL/TLS encrypted connections to secure data transmission.
 
@@ -23,24 +20,15 @@ The server's hardware consists of a powerful CPU processor with 128GB of memory.
 - **Database** is currently open to the public, a crucial security issue that must be addressed.
 - **Interacts with other servers** on the network, with **SSL/TLS encryption** in place to protect data.
 
-</details>
-
-<details>
-<summary><strong>Scope</strong></summary>
+## Scope
 
 The scope of this vulnerability assessment focuses on evaluating the current access controls of the system. This assessment will be carried out over a three-month period, from March 2025 to June 2025, and will follow the NIST SP 800-30 Rev. 1 guidelines to analyze risks associated with the information system.
 
-</details>
-
-<details>
-<summary><strong>Purpose</strong></summary>
+## Purpose
 
 The database server is crucial for managing customer data, which is vital for the company's marketing operations. However, the current open access to the database exposes it to various vulnerabilities, including SQL injection and Man-In-The-Middle (MITM) attacks. Protecting the database is essential to ensure that regular marketing operations can continue without disruption.
 
-</details>
-
-<details>
-<summary><strong>Risk Assessment</strong></summary>
+## Risk Assessment
 
 The table below outlines the potential threats and their corresponding risk scores:
 
@@ -56,17 +44,11 @@ The table below outlines the potential threats and their corresponding risk scor
 - **Severity:** Potential impact if the event occurs (1-5 scale)
 - **Risk:** The calculated risk, determined by multiplying likelihood and severity.
 
-</details>
-
-<details>
-<summary><strong>Approach</strong></summary>
+## Approach
 
 The risks assessed consider the data storage and management procedures of the business. Potential threat sources and events were identified based on the open access permissions of the information system. The severity of potential incidents was evaluated with regard to their impact on daily operations, which rely heavily on the customer data stored in the database.
 
-</details>
-
-<details>
-<summary><strong>Remediation Strategy</strong></summary>
+## Remediation Strategy
 
 To mitigate the identified risks, the following measures should be implemented:
 
@@ -85,10 +67,7 @@ To mitigate the identified risks, the following measures should be implemented:
 
 By implementing these remediation strategies, the company can significantly reduce the risk of unauthorized access and data breaches while ensuring that critical business operations continue without disruption.
 
-</details>
-
-<details>
-<summary><strong>Conclusion</strong></summary>
+## Conclusion
 
 Securing the database server is essential for maintaining the confidentiality, integrity, and availability of customer data. The current open access to the database represents a significant vulnerability that must be addressed promptly. By following the recommended remediation strategy, the company can safeguard its operations and protect sensitive information from potential threats.
 
