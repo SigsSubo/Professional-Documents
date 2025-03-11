@@ -44,7 +44,7 @@ All rights reserved.
 When analyzing the above email, the following can be deduced:
 
 1. **Email Sender’s Legitimacy:**  
-   The email is sent from a source whose address seems legitimate (`imaginarybank@gmail.org`), but that can easily be spoofed in phishing attacks.
+   The email is sent from a source whose address seems legitimate (`imaginarybank@gmail.org`), but this is a very good sign that this Email is fake as requests for sensitive information or asking you to download files should not come from personal accounts, like @gmail.com, @icloud, @yahoo.com or others.
 
 2. **Subject/Title Issues:**  
    The subject line, **"You are been added to an ecsecutiv's groups"**, contains grammar issues, which is unusual for professional emails. Specifically:
