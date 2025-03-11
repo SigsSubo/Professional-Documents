@@ -37,9 +37,6 @@ Sincerely,
 ExecuTalk©
 All rights reserved.
 
-markdown
-Copy
-
 ---
 
 ## Analysis:
